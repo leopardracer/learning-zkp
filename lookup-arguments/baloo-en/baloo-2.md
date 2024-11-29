@@ -246,7 +246,7 @@ $$
 
 You can verify that both sides of these two equations hold at any $h_i \in H$, therefore the modulo relationship also holds. This property ensures that we can perform 'modular multiplication' of polynomials under $z_H(X)$.
 
-This method of eliminating the $\tau_i(0)$ factor in the interpolation is referred to as Nomalized Lagrange Interpolation in the Baloo paper. Let's simply follow the paper's approach and name $\{\tau_i(X)/\tau_i(0)\}$ as Normalized Lagrange Polynomials, denoted as $\{\hat\tau_i(X)\}$.
+This method of eliminating the $\tau_i(0)$ factor in the interpolation is referred to as Normalized Lagrange Interpolation in the Baloo paper. Let's simply follow the paper's approach and name $\{\tau_i(X)/\tau_i(0)\}$ as Normalized Lagrange Polynomials, denoted as $\{\hat\tau_i(X)\}$.
 
 ## 7. Enhanced CP-expansion Protocol
 
